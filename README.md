@@ -50,12 +50,3 @@ Caso a pasta `dependencies` não esteja incluída no download principal do GitHu
 * **Tipos de Arquivo:** Você pode facilmente editar o dicionário `TIPOS_DE_ARQUIVO` dentro do `organizador.py` para adicionar novas categorias ou extensões que desejar organizar!
 * **Temas Visuais:** Altere `ctk.set_default_color_theme("blue")` no `organizador.py` para experimentar outros temas do CustomTkinter (ex: "dark-blue", "green") ou personalize suas próprias cores!
 
----
-
-### ⭐ **Créditos:**
-
-Desenvolvido por **Melowwzz** com a colaboração de **Gemini** (como copiloto de código e ideias).
-
----
-
-Aproveite para organizar seu universo digital! Sua jornada no desenvolvimento continua!
